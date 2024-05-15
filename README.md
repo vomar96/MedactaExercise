@@ -1,5 +1,6 @@
 # Medacta Candidate Exercise
-The exercise follows the indications provided by Medacta
+The exercise follows the indications provided by Medacta  
+#### At the moment this repo is public, please e-mail me (palumbo.omar@gmail.com) with your account name to make you a collaborator and make the repo private.
 ## Installation
 Extract the .zip file sent via WeTransfer  
 Export folder contains the Build of the project  
