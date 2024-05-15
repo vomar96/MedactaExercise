@@ -23,7 +23,6 @@ Movement of the objects are guaranteed by DragScript.cs
 On click on the object a variable opens the gate to dragging.  
 A virtual plane is created at a predefined height (in this case 1 unit).  
 Objects are initiated from the editor at this height. When dragging starts a ray is casted from the mouse position on the screen to the virtual plane. The resulting point will be the position of the object.
-
 ### Rotation
 The objects can also be rotated by left clicking on them and dragging.  
 Vertical dragging will affect the yaw and horizontal dragging will affect the pitch.  
