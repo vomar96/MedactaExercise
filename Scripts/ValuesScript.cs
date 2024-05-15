@@ -9,9 +9,8 @@ public class ValuesScript : MonoBehaviour
     private float distance;
     private Text angle_val;
     private Text dist_val;
-
-    [SerializeField] private GameObject obj1;
-    [SerializeField] private GameObject obj2;
+    private GameObject obj1;
+    private GameObject obj2;
 
 
     // Start is called before the first frame update
