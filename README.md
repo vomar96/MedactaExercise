@@ -1,17 +1,17 @@
 # Medacta Candidate Exercise
 The exercise follows the indications provided by Medacta
 ## Installation
-Extract the .zip file sent via WeTransfer
-Export folder contains the Build of the project
-Full Unity Project folder contains the full project folders
-Package folder contains the .unitypackage importable in unity
+Extract the .zip file sent via WeTransfer  
+Export folder contains the Build of the project  
+Full Unity Project folder contains the full project folders  
+Package folder contains the .unitypackage importable in unity  
 
 To launch the application open the Export folder and launch the .exe file
 # Usage
 ## Main Menu
 The main menu after the launch of the application let the user choose the level to open.
 #### Approach
-Main Menu is controlled by MainMenuController.cs
+Main Menu is controlled by MainMenuController.cs  
 Scenes are loaded and game is quit referring to this script.
 
 ## Main Level Scene
